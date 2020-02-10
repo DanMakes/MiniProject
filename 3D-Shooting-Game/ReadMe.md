@@ -23,4 +23,4 @@ by pressing left button of the mouse.
 
 <p>I Hope You Enjoy the game !!! :)</p>
 
-<i>Created by Roshan Lamichhane</i>
+<i>Created by Dan Makes</i>

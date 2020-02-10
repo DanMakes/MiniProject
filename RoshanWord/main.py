@@ -363,7 +363,7 @@ class TextEdit(QTextEdit):
             self.editor.print_(dlg.printer())
 
     def update_title(self):
-        self.setWindowTitle("%s - RoshanWord" % (os.path.basename(self.path) if self.path else "Untitled"))
+        self.setWindowTitle("%s - DanWord" % (os.path.basename(self.path) if self.path else "Untitled"))
 
     def edit_toggle_wrap(self):
         self.editor.setLineWrapMode( 1 if self.editor.lineWrapMode() == 0 else 0 )
@@ -372,7 +372,7 @@ class TextEdit(QTextEdit):
 if __name__ == '__main__':
 
     app = QApplication(sys.argv)
-    app.setApplicationName("RoshanWord")
+    app.setApplicationName("DanWord")
 
     window = MainWindow()
     app.exec_()

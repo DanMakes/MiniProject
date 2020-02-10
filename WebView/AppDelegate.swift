@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
 //
-//  Created by Roshan Lamichhane
-//  Copyright © 2020 Roshan Lamichhane. All rights reserved.
+//  Created by Dan Makes
+//  Copyright © 2020 Dan Makes. All rights reserved.
 //
 import UIKit
 
